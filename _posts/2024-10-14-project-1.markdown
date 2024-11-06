@@ -1,0 +1,27 @@
+---
+layout: default
+modal-id: "portfolioModal-1"
+title: "Project 1"
+date: 2024-10-14
+img: cabin.png
+alt: "Cabin Image"
+project-date: October 2024
+client: Start Bootstrap
+category: Document Engineering
+description: "This is a brief description of Project 1."
+---
+
+## Additional Information
+
+This is a project about how to make a jekyll file and edit the markdown files to make the msuited towards your needs.
+
+### Key Features
+- Feature 1: This was a project assigned into my document engineering class that was meant to help us learn how to use jekyll and markdown files to create our own website.
+- Feature 2: This lab was meant for us to show our capabilities and how these types of documents can be used to be more professional
+- Feature 3: During this lab i used VSCode and github to access my work making sure that everything ran smooth and looked/worked how i wanted it to
+
+
+
+### Conclusion
+
+In conclusion this lab shows the professiency that I have amking a jekyll website and editing the markdown files to make the website personalized and to provide the information i need it to
